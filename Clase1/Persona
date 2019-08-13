@@ -1,0 +1,23 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package poo;
+
+/**
+ *Crear objetos
+ * @author Adrian Carrillo Uruchurtu
+ */
+public class Persona {
+  /*Las llaves definen el contexto de clave Persona.*/  
+    String nombre;
+    char[] nombre2;
+    int edad;
+    double estatura;
+    double peso;
+    String sexo;
+    public void saludar(){
+        System.out.println("Hola mundo");
+    }
+}
