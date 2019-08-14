@@ -15,7 +15,12 @@ public class Miproyecto {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-Persona beto = new Persona();
+        
+        Persona betorta = new Persona();
+        Persona carlitos = new Persona();
+        Persona jose = new Persona();
+        Persona rubencito = new Persona();
+        System.out.println();
+        
         }
-    
 }
